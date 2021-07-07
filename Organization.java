@@ -21,5 +21,6 @@ public class Organization {
 	public static void main(String [] args) {
 		Organization obj = new Organization ();
 		obj.armstrongNumber(154);
+		System.out.println("Program is completed.");
 	}
 }
